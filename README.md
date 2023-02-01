@@ -1,1 +1,1 @@
-# iosevka-term-curly
+<built-in method capitalize of str object at 0x7fce4f157320> - version 17.1.0
